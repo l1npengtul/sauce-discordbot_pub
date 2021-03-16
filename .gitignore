@@ -1,9 +1,3 @@
 /target
 *.cfg
-.idea/.gitignore
-.idea/codeStyles/
-.idea/misc.xml
-.idea/modules.xml
-.idea/saucechecker_disc.iml
-.idea/vcs.xml
-/venv
+.idea/
